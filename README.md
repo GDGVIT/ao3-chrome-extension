@@ -5,7 +5,11 @@
 	<h2 align="center">AO3 Chrome Extension</h2>
 	<h4 align="center">A powerful Chrome extension that enhances your Archive of Our Own (AO3) reading experience with AI-powered recommendations, custom themes, and comprehensive reading statistics.</h4>
 </p>
-
+<p align="center">
+	<a href="">
+		<img width="400" src="https://github.com/GDGVIT/ao3-chrome-extension/blob/dev/ao3-chrome-extension/public/logo.png" alt="GDSC VIT"/>
+	</a>
+</p>
 ---
 [![Join Us](https://img.shields.io/badge/Join%20Us-Developer%20Student%20Clubs-red)](https://dsc.community.dev/vellore-institute-of-technology/)
 [![Discord Chat](https://img.shields.io/discord/760928671698649098.svg)](https://discord.gg/498KVdSKWR)
@@ -14,14 +18,14 @@
 [![UI ](https://img.shields.io/badge/User%20Interface-Link%20to%20UI-orange?style=flat-square&logo=appveyor)](https://ao3-website.vercel.app/dashboard)
 
 ## Features
-- [ ] AI-powered fanfiction recommendations based on reading history
-- [ ] Custom themes with dark mode support
-- [ ] Advanced tag filtering and search capabilities
-- [ ] Reading statistics tracking
-- [ ] Smart bookmark organization
-- [ ] Reading progress tracker
-- [ ] Enhanced user interface
-- [ ] Cross-device sync for preferences
+- [X] AI-powered fanfiction recommendations based on reading history
+- [X] Custom themes with dark mode support
+- [X] Advanced tag filtering and search capabilities
+- [X] Reading statistics tracking
+- [X] Smart bookmark organization
+- [X] Reading progress tracker
+- [X] Enhanced user interface
+- [X] Cross-device sync for preferences
 
 <br>
 
@@ -62,6 +66,11 @@ npm run build
 - Enable "Developer mode" in the top right corner
 - Click "Load unpacked"
 - Select the `dist` folder that was created during the build process
+
+
+## Checkout the frontend and backend here:
+- [Frontend](https://github.com/GDGVIT/ao3-chrome-extension-frontend)
+- [Backend and ML](https://github.com/GDGVIT/ao3-chrome-extension-backend-and-ml)
 
 
 ## Contributors
